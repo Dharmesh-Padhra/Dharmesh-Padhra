@@ -35,7 +35,7 @@ I'm currently pursuing my **Bachelor of Engineering** in **Computer Science and 
 
 ### 🤝 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/dharmeshpadhra/)
-- [Instagram]([https://your-portfolio.com](https://www.instagram.com/dharmeshpadhra/)
+- [Instagram](https://www.instagram.com/dharmeshpadhra/)
 
 Feel free to check out my repositories and reach out for any collaboration or project discussions!
 

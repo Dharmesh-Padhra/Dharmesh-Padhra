@@ -34,8 +34,8 @@ I'm currently pursuing my **Bachelor of Engineering** in **Computer Science and 
 - Exploring cloud technologies and DevOps tools.
 
 ### 🤝 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/dharmeshpadhra/)
+- [Instagram]([https://your-portfolio.com](https://www.instagram.com/dharmeshpadhra/))
 
 Feel free to check out my repositories and reach out for any collaboration or project discussions!
 
